@@ -60,10 +60,7 @@ GEM
       minitest (>= 5.1)
       tzinfo (~> 2.0)
       zeitwerk (~> 2.3)
-<<<<<<< HEAD
     ast (2.4.2)
-=======
->>>>>>> 619c2f8082e7c45c791a43b36528f04900aa40d9
     bootsnap (1.7.7)
       msgpack (~> 1.0)
     builder (3.2.4)
@@ -94,12 +91,9 @@ GEM
     nokogiri (1.12.1)
       mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
-<<<<<<< HEAD
     parallel (1.20.1)
     parser (3.0.2.0)
       ast (~> 2.4.1)
-=======
->>>>>>> 619c2f8082e7c45c791a43b36528f04900aa40d9
     pg (1.2.3)
     puma (5.4.0)
       nio4r (~> 2.0)
@@ -133,15 +127,11 @@ GEM
       method_source
       rake (>= 0.13)
       thor (~> 1.0)
-<<<<<<< HEAD
     rainbow (3.0.0)
-=======
->>>>>>> 619c2f8082e7c45c791a43b36528f04900aa40d9
     rake (13.0.6)
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-<<<<<<< HEAD
     regexp_parser (2.1.1)
     rexml (3.2.5)
     rubocop (1.18.4)
@@ -156,8 +146,6 @@ GEM
     rubocop-ast (1.8.0)
       parser (>= 3.0.1.1)
     ruby-progressbar (1.11.0)
-=======
->>>>>>> 619c2f8082e7c45c791a43b36528f04900aa40d9
     spring (2.1.1)
     sprockets (4.0.2)
       concurrent-ruby (~> 1.0)
@@ -169,10 +157,7 @@ GEM
     thor (1.1.0)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
-<<<<<<< HEAD
     unicode-display_width (2.0.0)
-=======
->>>>>>> 619c2f8082e7c45c791a43b36528f04900aa40d9
     websocket-driver (0.7.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
@@ -188,10 +173,7 @@ DEPENDENCIES
   pg (~> 1.1)
   puma (~> 5.0)
   rails (~> 6.1.4)
-<<<<<<< HEAD
   rubocop
-=======
->>>>>>> 619c2f8082e7c45c791a43b36528f04900aa40d9
   spring
   tzinfo-data
 
